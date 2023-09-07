@@ -7,4 +7,4 @@
   <li>You need to provide a <strong>url as input link</strong> for which you need to generate the qr-image</li>
   <li>It will create a <strong>qr-code-image</strong> for your provided url input link.</li>
   <li>It will generate qr-code image in the <strong>.png</strong> foormat/extension by default.</li>
-</ol>-
+</ol>
