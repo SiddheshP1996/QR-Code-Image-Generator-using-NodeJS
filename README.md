@@ -1,6 +1,6 @@
 # QR-Code-Image-Generator-using-NodeJS
 
-<strong>I had made an attempt to create a qr-code-image-generator using NodeJS JavaScript Runtime Environment.</strong>
+<strong>I have attempted to create a qr-code-image-generator using NodeJS JavaScript Runtime Environment.</strong>
 <ol>
   <li>Installed <strong>inquirer</strong> and <strong>qr-image</strong> npm packages to generate the qr-code image.</li>
   <li>Imported <strong>inquirer object</strong> from inquirer package and <strong>qr object</strong> from qr-image package.</li>
