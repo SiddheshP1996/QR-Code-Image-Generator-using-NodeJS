@@ -4,6 +4,9 @@
 
 To install the libraries using <strong>NodeJS Runtime Environment</strong> use the below command in the terminal to get the libraries installed and ready to use.
 <li><strong> npm i inquirer qr-image</strong></li>
+
+
+
 The location to install the library may vary as per your requirement it can be installed using <strong>-g</strong> flag i.e. globally throughout your device 
 or restricted to your folder just using <strong>npm i</strong> and the libraries in the specified folder location. 
 
